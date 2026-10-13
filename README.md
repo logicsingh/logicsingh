@@ -1,39 +1,61 @@
 # 👋 Hi, I'm LogicSingh (Pabusingh Rathore)
-### BCS Graduate | Modern College of Arts, Science and Commerce (Shivajinagar, Pune)
 
-I am a Software Developer from Pune, passionate about building practical web and data solutions. My goal is to use my computer science background to solve real-world problems.
+### MCA Student | Software Developer | Cloud Computing & DevOps
 
----
+I'm a computer science graduate currently pursuing an MCA specializing in Cloud Computing & DevOps at Chandigarh University, Mohali. I enjoy building practical software applications, solving problems with data structures and algorithms, and learning how to develop, test, and deploy reliable applications.
 
-### 🚀 Featured Live Projects
-- **[🎓 Modern Campus Resource Hub](https://logicsingh.github.io)**  
-  *A centralized portal for Modern College students to share academic materials and notes.*  
-  `Tech: HTML5, Tailwind CSS, JavaScript`
-
-- **[🚇 Pune Metro Tracker](https://github.com)** (In Development)  
-  *A tool to track real-time arrival times for Pune Metro stations using Python APIs.*  
-  `Tech: Python, Flask, REST APIs`
+I'm currently strengthening my skills in backend development, databases, software engineering, and DevOps through hands-on projects.
 
 ---
 
-### 🛠 Technical Skills
-- **Languages:** Java, Python, C, PHP, JavaScript (ES6+)
-- **Web Development:** HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux, Vercel
+### 🚀 Featured Projects
+
+**📚 [Library Management System](https://github.com/logicsingh/library-management-system)**
+
+A web-based application for managing books, library members, and borrowing transactions.
+
+`PHP` · `MySQL` · `PDO` · `Bootstrap` · `XAMPP`
+
+**🎓 [Student Record Management System](https://github.com/logicsingh/student-record-management-system)**
+
+A command-line application to add, view, search, update, and manage student records with CSV-based data persistence.
+
+`Python` · `CSV` · `Unit Testing`
+
+**🧩 [Data Structures & Algorithms Toolkit](https://github.com/logicsingh/data-structures-algorithms-toolkit)**
+
+A Python toolkit demonstrating searching and sorting algorithms, stacks, queues, linked lists, and binary search trees.
+
+`Python` · `Data Structures` · `Algorithms` · `Unit Testing`
 
 ---
 
-### 📊 My GitHub Activity
-![LogicSingh's Stats](https://github-readme-stats.vercel.app)
-![Top Langs](https://github-readme-stats.vercel.app)
+### 🛠️ Technical Skills
+
+- **Languages:** Python, Java, C, PHP, JavaScript
+- **Web Development:** HTML5, CSS3, Bootstrap
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, XAMPP
+- **Core Computer Science:** Data Structures & Algorithms, OOP, SQL, Problem Solving
+- **Currently Learning:** Cloud Computing, DevOps, Docker, CI/CD
 
 ---
 
-### 📫 Let's Connect
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
-- **Location:** Pune, Maharashtra, India
-- **Portfolio:** [logicsingh.github.io/campus-resource-hub/](https://logicsingh.github.io)
+### 🎯 Current Goals
+
+- Build maintainable web applications and backend services.
+- Strengthen problem-solving and software engineering fundamentals.
+- Learn containerization, automated testing, and CI/CD workflows.
+- Develop practical projects that demonstrate my technical skills.
 
 ---
-*“Coding is the logic of the future.”*
+
+### 📫 Connect With Me
+
+- **GitHub:** [@logicsingh](https://github.com/logicsingh)
+- **LinkedIn:** Add your actual LinkedIn profile URL here.
+- **Portfolio:** Add your portfolio URL when it is ready.
+
+---
+
+*Building projects, learning continuously, and improving one commit at a time.*
