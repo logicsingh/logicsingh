@@ -31,4 +31,4 @@ Linux administration, Docker, AWS fundamentals, CI/CD, and how to deploy and mai
 ## Find me
 
 - [LinkedIn](https://www.linkedin.com/in/pabusingh-rathore-90a27627b/)
-- [Portfolio](https://github.com/logicsingh/logicsingh.github.io-3.)
+- [Portfolio website source](https://github.com/logicsingh/logicsingh.github.io-3.)
