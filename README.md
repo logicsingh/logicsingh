@@ -1,61 +1,46 @@
-# 👋 Hi, I'm LogicSingh (Pabusingh Rathore)
+# Pabusingh Rathore | LogicSingh
 
-### MCA Student | Software Developer | Cloud Computing & DevOps
+### MCA Student · Cloud Computing & DevOps · Software Development
 
-I'm a computer science graduate currently pursuing an MCA specializing in Cloud Computing & DevOps at Chandigarh University, Mohali. I enjoy building practical software applications, solving problems with data structures and algorithms, and learning how to develop, test, and deploy reliable applications.
+I am pursuing an MCA with a specialization in Cloud Computing & DevOps at Chandigarh University. I build practical applications and strengthen my engineering skills through backend development, databases, automated testing, and deployment workflows.
 
-I'm currently strengthening my skills in backend development, databases, software engineering, and DevOps through hands-on projects.
-
----
-
-### 🚀 Featured Projects
-
-**📚 [Library Management System](https://github.com/logicsingh/library-management-system)**
-
-A web-based application for managing books, library members, and borrowing transactions.
-
-`PHP` · `MySQL` · `PDO` · `Bootstrap` · `XAMPP`
-
-**🎓 [Student Record Management System](https://github.com/logicsingh/student-record-management-system)**
-
-A command-line application to add, view, search, update, and manage student records with CSV-based data persistence.
-
-`Python` · `CSV` · `Unit Testing`
-
-**🧩 [Data Structures & Algorithms Toolkit](https://github.com/logicsingh/data-structures-algorithms-toolkit)**
-
-A Python toolkit demonstrating searching and sorting algorithms, stacks, queues, linked lists, and binary search trees.
-
-`Python` · `Data Structures` · `Algorithms` · `Unit Testing`
+My current focus is on writing maintainable software and learning how applications are built, tested, secured, and operated.
 
 ---
 
-### 🛠️ Technical Skills
+## Featured Projects
 
-- **Languages:** Python, Java, C, PHP, JavaScript
-- **Web Development:** HTML5, CSS3, Bootstrap
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code, XAMPP
-- **Core Computer Science:** Data Structures & Algorithms, OOP, SQL, Problem Solving
-- **Currently Learning:** Cloud Computing, DevOps, Docker, CI/CD
+| Project | Overview | Stack |
+|---|---|---|
+| [CampusConnect](https://github.com/logicsingh/college-event-registration-portal) | College events and student registration portal | PHP, MySQL, PDO, Bootstrap |
+| [ExamDesk](https://github.com/logicsingh/examdesk-online-examination-system) | Role-based online examination system | Java 17, Jakarta Servlets, JSP, MySQL, Maven |
+| [Student Expense Tracker](https://github.com/logicsingh/StudentExpenseTracker) | Desktop expense manager with local SQLite storage and CSV export | Python, Tkinter, SQLite |
+| [FinTrust](https://github.com/logicsingh/FinTrust-Banking-Management-System) | Educational banking system and PL/SQL workflows | Oracle, PL/SQL, FastAPI |
+| [Student Performance Analysis](https://github.com/logicsingh/student-performance-analysis) | Data cleaning, analysis, and dashboard | Python, Flask, Pandas, Matplotlib |
+| [Library Management System](https://github.com/logicsingh/library-management-system) | Library catalogue, members, and loan management | PHP, MySQL, PDO |
+| [Student Record Management](https://github.com/logicsingh/student-record-management-system) | CLI student records with CSV persistence | Python, unittest |
+| [DSA Toolkit](https://github.com/logicsingh/data-structures-algorithms-toolkit) | Search/sort algorithms and core data structures | Python, unittest |
 
----
+## Engineering Practices
 
-### 🎯 Current Goals
+- Automated testing and CI with GitHub Actions
+- Version control, readable documentation, and incremental commits
+- Input validation, prepared SQL statements, and secure password handling in learning projects
+- Local development with Maven, Tomcat, MySQL, SQLite, and XAMPP
 
-- Build maintainable web applications and backend services.
-- Strengthen problem-solving and software engineering fundamentals.
-- Learn containerization, automated testing, and CI/CD workflows.
-- Develop practical projects that demonstrate my technical skills.
+## Technical Skills
 
----
+- **Languages:** Python, Java, PHP, JavaScript, C, SQL
+- **Backend & Web:** Jakarta Servlets, JSP, Flask, FastAPI, PDO, HTML, CSS, Bootstrap
+- **Databases:** MySQL, SQLite, Oracle SQL/PLSQL
+- **Tools:** Git, GitHub, Maven, Tomcat, VS Code, XAMPP
+- **Currently developing:** Linux, Docker, AWS, CI/CD, cloud deployment, and infrastructure fundamentals
 
-### 📫 Connect With Me
+## Connect
 
 - **GitHub:** [@logicsingh](https://github.com/logicsingh)
-- **LinkedIn:** Add your actual LinkedIn profile URL here.
-- **Portfolio:** Add your portfolio URL when it is ready.
+- **LinkedIn:** [Pabusingh Rathore](https://www.linkedin.com/in/pabusingh-rathore-90a27627b/)
 
 ---
 
-*Building projects, learning continuously, and improving one commit at a time.*
+*Learning by building, testing, documenting, and improving one iteration at a time.*
