@@ -22,11 +22,13 @@ I keep some smaller academic exercises here too. They are part of the learning p
 - **Languages:** Python, Java, PHP, JavaScript, SQL
 - **Web and backend:** Jakarta Servlets, JSP, Flask, FastAPI, PDO, HTML, CSS, Bootstrap
 - **Databases:** MySQL, SQLite, Oracle SQL/PLSQL
-- **Development:** Git, GitHub, Maven, Tomcat, XAMPP
+- **Development and delivery:** Git, GitHub, Maven, Tomcat, XAMPP, Docker, GitHub Actions
+
+I have used Docker and GitHub Actions in the Student Performance Analysis project to build and smoke-test a container image. That workflow checks the container's health endpoint; it does not publish an image or deploy to a cloud service.
 
 ## Currently learning
 
-Linux administration, Docker, AWS fundamentals, CI/CD, and how to deploy and maintain applications.
+Linux administration, AWS fundamentals, cloud deployment, and operating applications beyond a local development setup.
 
 ## Find me
 
